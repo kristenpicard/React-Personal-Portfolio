@@ -2,9 +2,10 @@ import React from "react";
 import "./style.css";
 
 function Footer() {
+  const currentYear = new Date().getFullYear();
   return (
-    <footer className="footer">
-      <span>Pupster 2017</span>
+    <footer>
+      <p>Copyright {currentYear}</p>
     </footer>
   );
 }
