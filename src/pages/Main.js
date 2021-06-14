@@ -1,9 +1,9 @@
 import React from "react";
 import Bio from "../components/Bio";
-import Header from "../components/Header";
-import Skills from "../components/Skills";
-import Links from "../components/Links";
 import Contact from "../components/Contact";
+import Header from "../components/Header";
+import Links from "../components/Links";
+import Skills from "../components/Skills";
 
 function Main() {
   return (

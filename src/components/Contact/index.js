@@ -4,9 +4,7 @@ function Contact() {
   return (
     <>
       <div className="container skills bg-white">
-        <h5 className="card-title skills">
-          Contact
-        </h5>
+        <h5 className="card-title skills">Contact</h5>
 
         <div className="card-deck bg-white">
           <div className="card email bg-white">

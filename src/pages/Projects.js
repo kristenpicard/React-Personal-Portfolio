@@ -1,7 +1,4 @@
 import React, { Component } from "react";
-import ReactDOM from 'react-dom';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCoffee } from '@fortawesome/free-solid-svg-icons';
 import Project from "../components/ProjectCard";
 import projects from "../utils/projectslist.json";
 
