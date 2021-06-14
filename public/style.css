@@ -63,6 +63,17 @@ html {
   transform: translateY(-7px);
 }
 
+/* Styles the icons associated with the skills section */
+.fab {
+  font-size: 500%;
+}
+.fas {
+  font-size: 500%;
+}
+.skills {
+  text-align: center;
+}
+
 /* Styles jumbotrons on both pages */
 .card {
   font-family: "Roboto", sans-serif;
@@ -216,23 +227,6 @@ html {
   font-size: 150%;
 }
 
-/* Gets rid of border on smaller screens */
-@media only screen and (max-width: 545px) {
-  /* only screen and (min-device-width: 768px) and (max-device-width: 1024px) { */
-  #top,
-  #bottom,
-  #left,
-  #right {
-    display: none;
-  }
-  .wrap {
-    padding: 3%;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-  }
-}
-
 /* yellow section */
 header {
   background-color: #f5ba13;
@@ -259,3 +253,22 @@ footer {
 footer p {
   color: #ccc;
 }
+
+/* Gets rid of border on smaller screens */
+@media only screen and (max-width: 545px) {
+  /* only screen and (min-device-width: 768px) and (max-device-width: 1024px) { */
+  #top,
+  #bottom,
+  #left,
+  #right {
+    display: none;
+  }
+  .wrap {
+    padding: 3%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+
