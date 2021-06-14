@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "My Media Mate",
+      "image":
+        "Assets/MMM.png",
+      "deployedlink": "https://whispering-ridge-05864.herokuapp.com/",
+      "icon": "far fa-calendar-alt",
+      "deployedtitle": "Track Your Media Now",
+      "ghlink": "https://github.com/kristenpicard/My-Media-Mate",
+      "githubicon": "fab fa-github",
+      "githubtitle": "My Media Mate GitHub Repo"
+    },
+    {
+        "id": 2,
+        "title": "SpongeBob",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "deployedlink": "Fry Cook",
+        "icon": "A Pineapple Under the Sea",
+        "deployedtitle": "A Pineapple Under the Sea",
+        "ghlink": "A Pineapple Under the Sea",
+        "githubicon": "fab fa-github",
+        "githubtitle": "A Pineapple Under the Sea"
+      },
+      {
+        "id": 3,
+        "title": "SpongeBob",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "deployedlink": "Fry Cook",
+        "icon": "A Pineapple Under the Sea",
+        "deployedtitle": "A Pineapple Under the Sea",
+        "ghlink": "A Pineapple Under the Sea",
+        "githubicon": "fab fa-github",
+        "githubtitle": "A Pineapple Under the Sea"
+      }
+  ]
