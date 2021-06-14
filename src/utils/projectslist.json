@@ -2,8 +2,7 @@
     {
       "id": 1,
       "title": "My Media Mate",
-      "image":
-        "Assets/MMM.png",
+      "image": "Assets/MMM.png",
       "deployedlink": "https://whispering-ridge-05864.herokuapp.com/",
       "icon": "far fa-calendar-alt",
       "deployedtitle": "Track Your Media Now",
@@ -13,26 +12,57 @@
     },
     {
         "id": 2,
-        "title": "SpongeBob",
-        "image":
-          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-        "deployedlink": "Fry Cook",
-        "icon": "A Pineapple Under the Sea",
-        "deployedtitle": "A Pineapple Under the Sea",
-        "ghlink": "A Pineapple Under the Sea",
+        "title": "JavaScript Quiz",
+        "image": "Assets/JS Quiz.png",
+        "deployedlink": "https://kristenpicard.github.io/Javascript-Quiz/",
+        "icon": "fas fa-feather-alt",
+        "deployedtitle": "Take JavaScript Quiz",
+        "ghlink": "https://github.com/kristenpicard/Javascript-Quiz",
         "githubicon": "fab fa-github",
-        "githubtitle": "A Pineapple Under the Sea"
+        "githubtitle": "JS Quiz GitHub Repo"
       },
       {
         "id": 3,
-        "title": "SpongeBob",
-        "image":
-          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-        "deployedlink": "Fry Cook",
-        "icon": "A Pineapple Under the Sea",
-        "deployedtitle": "A Pineapple Under the Sea",
-        "ghlink": "A Pineapple Under the Sea",
+        "title": "Password Generator",
+        "image": "Assets/PW Gen.png",
+        "deployedlink": "https://kristenpicard.github.io/Password-Generator/",
+        "icon": "fas fa-unlock-alt",
+        "deployedtitle": "Get a new password",
+        "ghlink": "https://github.com/kristenpicard/Password-Generator",
         "githubicon": "fab fa-github",
-        "githubtitle": "A Pineapple Under the Sea"
+        "githubtitle": "PW Generator GitHub Repo"
+      },
+      {
+        "id": 4,
+        "title": "Employee Directory",
+        "image": "Assets/EmpDir.gif",
+        "deployedlink": "https://kristenpicard.github.io/Employee-Directory/",
+        "icon": "fas fa-network-wired",
+        "deployedtitle": "View Employee Directory",
+        "ghlink": "https://github.com/kristenpicard/Employee-Directory",
+        "githubicon": "fab fa-github",
+        "githubtitle": "Employee Directory GitHub Repo"
+      },
+      {
+        "id": 5,
+        "title": "Fitness Tracker",
+        "image": "Assets/FitTrack.gif",
+        "deployedlink": "https://shrouded-plateau-21534.herokuapp.com/",
+        "icon": "fas fa-running",
+        "deployedtitle": "Start Tracking Workouts Here",
+        "ghlink": "https://github.com/kristenpicard/Fitness-Tracker",
+        "githubicon": "fab fa-github",
+        "githubtitle": "Fitness Tracker GitHub Repo"
+      },
+      {
+        "id": 6,
+        "title": "Budget Tracker",
+        "image": "Assets/Budget.gif",
+        "deployedlink": "https://protected-sierra-74744.herokuapp.com/",
+        "icon": "fas fa-dollar-sign",
+        "deployedtitle": "Start Budgeting Here",
+        "ghlink": "https://github.com/kristenpicard/Budget-Tracker",
+        "githubicon": "fab fa-github",
+        "githubtitle": "Budget Tracker GitHub Repo"
       }
   ]

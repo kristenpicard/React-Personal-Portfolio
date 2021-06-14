@@ -184,6 +184,10 @@ html {
   padding-top: 5%;
 }
 
+.email {
+  font-size: smaller;
+}
+
 /* Styles buttons in JS Quiz section of projects */
 .btn2 {
   color: #1b191a;
@@ -228,7 +232,6 @@ html {
 /* yellow section */
 header {
   background-color: #343a40;
-  padding: 16px 32px;
   color: #fff;
   font-family: "Roboto", sans-serif;
   letter-spacing: 2.5px;

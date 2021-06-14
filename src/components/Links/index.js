@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Links() {
   return (
@@ -6,14 +7,14 @@ function Links() {
       <div className="align-items-center bg-dark">
         <section className="container btncnt px-lg-5 align-items-center bg-dark">
           <div className="row mx-lg-n5 bg-dark">
-            <a
-              href="projects.html"
+            <Link
+              to="/projects"
               type="button"
               className="btn btn-outline-secondary btn-lg btn-block col-10"
               target="_blank"
             >
               <i className="fas fa-project-diagram"></i> Projects
-            </a>
+            </Link>
             <br></br>
             <a
               href="https://github.com/kristenpicard"
