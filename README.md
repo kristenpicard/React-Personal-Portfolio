@@ -9,22 +9,22 @@ This project was created using React.
 This page includes a small bio with a photo of me:
 <br>
 
-![1](Screenshots/1.png)
+![1](screenshots/1.png)
 
 There is a section to list my skills as well as a list of buttons that take you to various documents and pages that give more information about me as a developer and professional:
 <br>
 
-![2](Screenshots/2.png)
+![2](screenshots/2.png)
 
 I have a section listing ways to contact me:
 <br>
 
-![3](Screenshots/3.png)
+![3](screenshots/3.png)
 
 When the "Projects" button is clicked, it takes you to another page showcasing three of my projects. Each project has a screenshot of the deployed page along with a link to its corresponding GitHub repository and a link to its live page.  
 <br>
 
-![4](Screenshots/4.png)
+![4](screenshots/4.png)
 
 Each of the buttons on the main page take you to the corresponding elements in a new tab. 
 
