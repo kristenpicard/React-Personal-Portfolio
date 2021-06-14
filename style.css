@@ -1,0 +1,271 @@
+/* whole html has image as background */
+html {
+  min-height: 100%;
+}
+
+/* This styles border of whole page */
+#top,
+#bottom,
+#left,
+#right {
+  background: #85adcc;
+  position: fixed;
+  shadow: 20px 20px 20px 20px rgba(90, 158, 167, 0.4);
+}
+#left,
+#right {
+  top: 0;
+  bottom: 0;
+  width: 15px;
+}
+#left {
+  left: 0;
+}
+#right {
+  right: 0;
+}
+#top,
+#bottom {
+  left: 0;
+  right: 0;
+  height: 15px;
+}
+#top {
+  top: 0;
+}
+#bottom {
+  bottom: 0;
+}
+
+/* Styles list of buttons on home page */
+.btn {
+  color: #1b191a;
+  width: 20%;
+  height: 30%;
+  font-family: "Roboto", sans-serif;
+  font-size: 100%;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 700;
+  background-color: #fff;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  padding: 1.5%;
+  margin: 2% 2% 2% 8%;
+}
+
+.btn:hover {
+  background-color: #85adcc;
+  box-shadow: 0px 15px 20px rgb(92, 128, 156);
+  color: white;
+  transform: translateY(-7px);
+}
+
+/* Styles the icons associated with the skills section */
+.skillicon {
+  font-size: 500%;
+}
+
+.skills {
+  text-align: center;
+}
+
+/* Styles jumbotrons on both pages */
+.card {
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2.5px;
+  margin: 0;
+  padding-top: 10%;
+  border: none;
+}
+
+/* Adds neon effect to jumbotron headers */
+.neon {
+  color: #1b191a;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #85adcc, 0 0 40px #85adcc,
+    0 0 80px #85adcc, 0 0 90px #85adcc, 0 0 100px #85adcc, 0 0 150px #85adcc;
+}
+
+/* Styles the welcome section of home page */
+.card .lead {
+  font-size: 30px;
+  color: #85adcc;
+  border: none;
+}
+
+/* Adds padding to all containers */
+.container {
+  padding: 3%;
+}
+
+/* Adds paddin to skills section of home page */
+.skills {
+  padding-top: 3% 3% 3% 5%;
+}
+
+/* Styling on Kristen's headshot home pg */
+.img {
+  float: left;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 3%;
+  padding-left: 3%;
+  margin-left: 1%;
+  border-radius: 50%;
+}
+
+/* Styling JS Quiz image */
+.img2 {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-right: 3%;
+  margin-left: 3%;
+  border: 5px solid;
+  border-color: #85adcc;
+  width: 50%;
+}
+
+/* Styling PW Generator image */
+.img3 {
+  float: right;
+  margin: 3%;
+  border: 5px solid;
+  border-color: #85adcc;
+  width: 40%;
+}
+
+/* styles several card body sections */
+.container .biobody {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 125%;
+  padding-top: 1%;
+  padding-bottom: 3%;
+  padding-right: 3%;
+  padding-left: 3%;
+}
+
+/* styles several card titles */
+.container .biobody .card-title {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2.5px;
+  font-size: 150%;
+}
+
+/* styles skills card deck on home page */
+.card-deck {
+  padding-left: 4%;
+  padding-right: 4%;
+  color: #343a40;
+  text-align: center;
+}
+
+.container .card-title {
+  color: #343a40;
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2.5px;
+  font-size: 200%;
+  margin: 0;
+}
+
+.card-deck .card-title {
+  color: #343a40;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2.5px;
+  font-size: 150%;
+  margin: 0;
+}
+
+.card {
+  padding-top: 5%;
+}
+
+.email {
+  font-size: smaller;
+}
+
+/* Styles buttons in JS Quiz section of projects */
+.btn2 {
+  color: #1b191a;
+  font-family: "Roboto", sans-serif;
+  font-size: 70%;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 700;
+  background-color: #fff;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  margin: 2% 2% 2% 2%;
+  padding: 1%;
+  width: 40%;
+}
+.btn2:hover {
+  background-color: #85adcc;
+  box-shadow: 0px 15px 20px rgb(92, 128, 156);
+  color: white;
+  transform: translateY(-7px);
+}
+
+/* styles JS Quiz projects section */
+.container .projectsbody {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 125%;
+  padding-top: 0;
+  margin-bottom: 0;
+}
+
+/* styles JS Quiz projects card titles */
+.container .projectsbody .card-title {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2.5px;
+  font-size: 150%;
+}
+
+/* yellow section */
+header {
+  background-color: #343a40;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2.5px;
+  font-weight: 200;
+  text-align: center;
+}
+
+
+/* copyright section at bottom */
+footer {
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+  background-color: #343a40;
+}
+
+footer p {
+  color: #ccc;
+}
+
+/* Gets rid of border on smaller screens */
+@media only screen and (max-width: 545px) {
+  /* only screen and (min-device-width: 768px) and (max-device-width: 1024px) { */
+  #top,
+  #bottom,
+  #left,
+  #right {
+    display: none;
+  }
+  .wrap {
+    padding: 3%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+  }
+}
