@@ -1,17 +1,94 @@
 [
-    {
-      "id": 1,
+  {
+    "id": 1,
+    "title": "Show Me The City",
+    "image": "Assets/ShowMeCity.png",
+    "deployedlink": "https://show-me-the-city.herokuapp.com/",
+    "icon": "fas fa-city",
+    "deployedtitle": "Explore a City",
+    "ghlink": "https://github.com/kristenpicard/Show-Me-The-City",
+    "githubicon": "fab fa-github",
+    "githubtitle": "Show Me The City GitHub Repo"
+  },  
+  {
+      "id": 2,
       "title": "My Media Mate",
       "image": "Assets/MMM.png",
       "deployedlink": "https://whispering-ridge-05864.herokuapp.com/",
-      "icon": "far fa-calendar-alt",
+      "icon": "fas fa-film",
       "deployedtitle": "Track Your Media Now",
       "ghlink": "https://github.com/kristenpicard/My-Media-Mate",
       "githubicon": "fab fa-github",
       "githubtitle": "My Media Mate GitHub Repo"
     },
     {
-        "id": 2,
+      "id": 3,
+      "title": "MVC Tech Blog",
+      "image": "Assets/TechBlog.png",
+      "deployedlink": "https://frozen-earth-66671.herokuapp.com/",
+      "icon": "fas fa-pen",
+      "deployedtitle": "Start Blogging Now",
+      "ghlink": "https://github.com/kristenpicard/MVC-Tech-Blog",
+      "githubicon": "fab fa-github",
+      "githubtitle": "Tech Blog GitHub Repo"
+    },
+    {
+      "id": 4,
+      "title": "Employee Directory",
+      "image": "Assets/EmpDir.gif",
+      "deployedlink": "https://kristenpicard.github.io/Employee-Directory/",
+      "icon": "fas fa-network-wired",
+      "deployedtitle": "View Employee Directory",
+      "ghlink": "https://github.com/kristenpicard/Employee-Directory",
+      "githubicon": "fab fa-github",
+      "githubtitle": "Employee Directory GitHub Repo"
+    },
+    {
+      "id": 5,
+      "title": "Weather Application",
+      "image": "Assets/WeatherApp.gif",
+      "deployedlink": "https://kristenpicard.github.io/Weather-Application/",
+      "icon": "fas fa-temperature-low",
+      "deployedtitle": "Check the Weather Here",
+      "ghlink": "https://github.com/kristenpicard/Weather-Application",
+      "githubicon": "fab fa-github",
+      "githubtitle": "Weather App GitHub Repo"
+    },
+    {
+      "id": 6,
+      "title": "Work Day Scheduler",
+      "image": "Assets/WorkSched.png",
+      "deployedlink": "https://kristenpicard.github.io/Work-Day-Scheduler/",
+      "icon": "fas fa-calendar-alt",
+      "deployedtitle": "Plan Your Day Here",
+      "ghlink": "https://github.com/kristenpicard/Work-Day-Scheduler",
+      "githubicon": "fab fa-github",
+      "githubtitle": "Work Day Schedular GitHub Repo"
+    },
+    {
+      "id": 7,
+      "title": "Note Taker",
+      "image": "Assets/Note Taker.gif",
+      "deployedlink": "https://nameless-scrubland-69364.herokuapp.com/",
+      "icon": "fas fa-pencil-alt",
+      "deployedtitle": "Save Your Notes Here",
+      "ghlink": "https://github.com/kristenpicard/Note-Taker",
+      "githubicon": "fab fa-github",
+      "githubtitle": "Note Taker GitHub Repo"
+    },
+    {
+      "id": 8,
+      "title": "README Generator",
+      "image": "Assets/ReadMeGen.gif",
+      "deployedlink": "https://github.com/kristenpicard/README-Generator",
+      "icon": "far fa-plus-square",
+      "deployedtitle": "Create a ReadMe Here",
+      "ghlink": "https://github.com/kristenpicard/README-Generator",
+      "githubicon": "fab fa-github",
+      "githubtitle": "README Generator GitHub Repo"
+    },
+    {
+        "id": 9,
         "title": "JavaScript Quiz",
         "image": "Assets/JS Quiz.png",
         "deployedlink": "https://kristenpicard.github.io/Javascript-Quiz/",
@@ -22,7 +99,7 @@
         "githubtitle": "JS Quiz GitHub Repo"
       },
       {
-        "id": 3,
+        "id": 10,
         "title": "Password Generator",
         "image": "Assets/PW Gen.png",
         "deployedlink": "https://kristenpicard.github.io/Password-Generator/",
@@ -32,19 +109,9 @@
         "githubicon": "fab fa-github",
         "githubtitle": "PW Generator GitHub Repo"
       },
+     
       {
-        "id": 4,
-        "title": "Employee Directory",
-        "image": "Assets/EmpDir.gif",
-        "deployedlink": "https://kristenpicard.github.io/Employee-Directory/",
-        "icon": "fas fa-network-wired",
-        "deployedtitle": "View Employee Directory",
-        "ghlink": "https://github.com/kristenpicard/Employee-Directory",
-        "githubicon": "fab fa-github",
-        "githubtitle": "Employee Directory GitHub Repo"
-      },
-      {
-        "id": 5,
+        "id": 11,
         "title": "Fitness Tracker",
         "image": "Assets/FitTrack.gif",
         "deployedlink": "https://shrouded-plateau-21534.herokuapp.com/",
@@ -55,7 +122,7 @@
         "githubtitle": "Fitness Tracker GitHub Repo"
       },
       {
-        "id": 6,
+        "id": 12,
         "title": "Budget Tracker",
         "image": "Assets/Budget.gif",
         "deployedlink": "https://protected-sierra-74744.herokuapp.com/",
