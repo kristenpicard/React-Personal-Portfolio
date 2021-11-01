@@ -1,4 +1,5 @@
 import React from "react";
+import "./bio.css";
 
 function Bio() {
   return (

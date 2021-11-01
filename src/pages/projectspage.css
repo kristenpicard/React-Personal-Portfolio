@@ -1,9 +1,8 @@
 /* Styles jumbotrons on both pages */
-.header {
+.card {
   font-family: "Roboto", sans-serif;
   letter-spacing: 2.5px;
-  margin: 0;
-  padding-top: 5%;
+  padding-top: 3%;
   border: none;
   border-radius: 0%;
 }
@@ -15,8 +14,7 @@
     0 0 80px #85adcc, 0 0 90px #85adcc, 0 0 100px #85adcc, 0 0 150px #85adcc;
 }
 
-/* Styles the welcome section of home page */
-.card .lead {
-  font-size: 30px;
-  color: #85adcc;
+.card .jumbocontainer {
+  padding-top: 2%;
+  padding-bottom: 3%;
 }

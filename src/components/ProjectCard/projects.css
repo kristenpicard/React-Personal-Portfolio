@@ -1,0 +1,52 @@
+/* Styling screenshot image */
+.img {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-right: 3%;
+  margin-left: 3%;
+  border: 5px solid;
+  border-color: #85adcc;
+  width: 50%;
+}
+
+/* Styles buttons in JS Quiz section of projects */
+.btn2 {
+  color: #1b191a;
+  font-family: "Roboto", sans-serif;
+  font-size: 70%;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 700;
+  background-color: #fff;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  margin: 2% 2% 2% 2%;
+  padding: 1%;
+  width: 40%;
+}
+.btn2:hover {
+  background-color: #85adcc;
+  box-shadow: 0px 15px 20px rgb(92, 128, 156);
+  color: white;
+  transform: translateY(-7px);
+}
+
+/* styles JS Quiz projects section */
+.container .projectsbody {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 125%;
+  padding-top: 0;
+  margin-bottom: 0;
+}
+
+/* styles JS Quiz projects card titles */
+.container .projectsbody .projecttitle {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2.5px;
+  font-size: 150%;
+  text-transform: uppercase;
+}

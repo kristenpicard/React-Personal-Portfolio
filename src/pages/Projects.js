@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Project from "../components/ProjectCard";
 import projects from "../utils/projectslist.json";
+import "./projectspage.css";
 
 class Projects extends Component {
   state = {
@@ -8,8 +9,12 @@ class Projects extends Component {
   };
   render() {
     return (
-      <div class="card bg-dark text-center">
-        <h1 class="display-4 neon projectjumbo">Kristen Picard Projects</h1>
+      <div className="card bg-dark text-center">
+        <div className="jumbocontainer">
+          <h1 className="display-4 neon projectjumbo">
+            Kristen Picard Projects
+          </h1>
+        </div>
         <br></br>
         <br></br>
 
