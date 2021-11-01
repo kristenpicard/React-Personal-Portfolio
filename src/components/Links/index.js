@@ -1,10 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./links.css";
 
 function Links() {
   return (
     <>
-      <div className="align-items-center bg-dark">
+      <div className="align-items-center bg-dark btnsContainer">
         <section className="container btncnt px-lg-5 align-items-center bg-dark">
           <div className="row mx-lg-n5 bg-dark">
             <Link
@@ -24,8 +25,7 @@ function Links() {
               target="_blank"
               rel="noreferrer"
             >
-              <i className="fab fa-github"></i>
-              GitHub
+              <i className="fab fa-github"></i> GitHub
             </a>
             <br></br>
             <a
@@ -35,8 +35,7 @@ function Links() {
               target="_blank"
               rel="noreferrer"
             >
-              <i className="fab fa-linkedin"></i>
-              LinkedIn
+              <i className="fab fa-linkedin"></i> LinkedIn
             </a>
             <br></br>
             <a
