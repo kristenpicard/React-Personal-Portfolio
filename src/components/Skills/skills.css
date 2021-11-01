@@ -40,6 +40,10 @@
   border: none;
 }
 
+.skillz {
+  padding-bottom: 4%;
+}
+
 @media only screen and (max-width: 992px) {
   .container {
     padding-top: 0;

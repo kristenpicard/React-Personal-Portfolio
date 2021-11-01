@@ -8,7 +8,7 @@ function Project(props) {
         <h5 className="card-title projecttitle">{props.title}</h5>
         <div className="projectscreenshot">
           <img
-            className="img bg-dark"
+            className="img2 bg-dark"
             src={props.image}
             alt="Project screenshot"
           ></img>

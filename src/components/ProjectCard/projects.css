@@ -1,5 +1,5 @@
 /* Styling screenshot image */
-.img {
+.img2 {
   margin-top: 1%;
   margin-bottom: 1%;
   margin-right: 3%;
@@ -33,13 +33,17 @@
   transform: translateY(-7px);
 }
 
+.container {
+  padding-bottom: 2px;
+}
+
 /* styles JS Quiz projects section */
 .container .projectsbody {
   color: white;
   font-family: "Roboto", sans-serif;
   font-size: 125%;
-  padding-top: 0;
-  margin-bottom: 0;
+  padding: 0;
+  margin: 0;
 }
 
 /* styles JS Quiz projects card titles */
