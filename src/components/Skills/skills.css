@@ -1,0 +1,56 @@
+/* Styles the icons associated with the skills section */
+.skillicon {
+  font-size: 500%;
+}
+
+.skills {
+  text-align: center;
+  padding: 3%;
+}
+
+.card-deck {
+  padding-left: 4%;
+  padding-right: 4%;
+  color: #343a40;
+  text-align: center;
+}
+
+.container .skills {
+  text-align: center;
+}
+
+.skills .card-title {
+  color: #343a40;
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2.5px;
+  font-size: 200%;
+  margin: 0;
+}
+
+.card-deck .card-title {
+  color: #343a40;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2.5px;
+  font-size: 30px;
+  margin: 0;
+}
+
+.card {
+  border: none;
+}
+
+@media only screen and (max-width: 992px) {
+  .container {
+    padding-top: 0;
+  }
+
+  .skillicon {
+    padding: 0%;
+    font-size: 300%;
+  }
+
+  .card-deck .card-title {
+    font-size: 25px;
+  }
+}

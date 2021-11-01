@@ -64,13 +64,13 @@ html {
 }
 
 /* Styles the icons associated with the skills section */
-.skillicon {
+/* .skillicon {
   font-size: 500%;
 }
 
 .skills {
   text-align: center;
-}
+} */
 
 /* Styles jumbotrons on both pages */
 .card {
@@ -101,9 +101,9 @@ html {
 }
 
 /* Adds paddin to skills section of home page */
-.skills {
+/* .skills {
   padding-top: 3% 3% 3% 5%;
-}
+} */
 
 /* Styling on Kristen's headshot home pg */
 .img {
@@ -156,7 +156,7 @@ html {
 }
 
 /* styles skills card deck on home page */
-.card-deck {
+/* .card-deck {
   padding-left: 4%;
   padding-right: 4%;
   color: #343a40;
@@ -186,7 +186,7 @@ html {
 
 .email {
   font-size: smaller;
-}
+} */
 
 /* Styles buttons in JS Quiz section of projects */
 .btn2 {
