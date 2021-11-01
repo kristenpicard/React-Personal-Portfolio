@@ -38,7 +38,7 @@ html {
 }
 
 /* Styles list of buttons on home page */
-.btn {
+/* .btn {
   color: #1b191a;
   width: 20%;
   height: 30%;
@@ -61,7 +61,7 @@ html {
   box-shadow: 0px 15px 20px rgb(92, 128, 156);
   color: white;
   transform: translateY(-7px);
-}
+} */
 
 /* Styles the icons associated with the skills section */
 /* .skillicon {
@@ -73,7 +73,7 @@ html {
 } */
 
 /* Styles jumbotrons on both pages */
-.card {
+/* .card {
   font-family: "Roboto", sans-serif;
   letter-spacing: 2.5px;
   margin: 0;
@@ -82,18 +82,19 @@ html {
 }
 
 /* Adds neon effect to jumbotron headers */
-.neon {
+/* .neon {
   color: #1b191a;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #85adcc, 0 0 40px #85adcc,
     0 0 80px #85adcc, 0 0 90px #85adcc, 0 0 100px #85adcc, 0 0 150px #85adcc;
-}
+} */
 
 /* Styles the welcome section of home page */
-.card .lead {
+/* .card .lead {
   font-size: 30px;
   color: #85adcc;
   border: none;
-}
+} */
+*/
 
 /* Adds padding to all containers */
 .container {
