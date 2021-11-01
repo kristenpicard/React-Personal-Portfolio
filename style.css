@@ -38,7 +38,7 @@ html {
 }
 
 /* Styles list of buttons on home page */
-.btn {
+/* .btn {
   color: #1b191a;
   width: 20%;
   height: 30%;
@@ -61,19 +61,19 @@ html {
   box-shadow: 0px 15px 20px rgb(92, 128, 156);
   color: white;
   transform: translateY(-7px);
-}
+} */
 
 /* Styles the icons associated with the skills section */
-.skillicon {
+/* .skillicon {
   font-size: 500%;
 }
 
 .skills {
   text-align: center;
-}
+} */
 
 /* Styles jumbotrons on both pages */
-.card {
+/* .card {
   font-family: "Roboto", sans-serif;
   letter-spacing: 2.5px;
   margin: 0;
@@ -82,31 +82,31 @@ html {
 }
 
 /* Adds neon effect to jumbotron headers */
-.neon {
+/* .neon {
   color: #1b191a;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #85adcc, 0 0 40px #85adcc,
     0 0 80px #85adcc, 0 0 90px #85adcc, 0 0 100px #85adcc, 0 0 150px #85adcc;
-}
+} */
 
 /* Styles the welcome section of home page */
-.card .lead {
+/* .card .lead {
   font-size: 30px;
   color: #85adcc;
   border: none;
-}
+} */
 
 /* Adds padding to all containers */
-.container {
+/* .container {
   padding: 3%;
-}
+} */
 
 /* Adds paddin to skills section of home page */
-.skills {
+/* .skills {
   padding-top: 3% 3% 3% 5%;
-}
+} */
 
 /* Styling on Kristen's headshot home pg */
-.img {
+/* .img {
   float: left;
   padding-top: 1%;
   padding-bottom: 1%;
@@ -114,10 +114,10 @@ html {
   padding-left: 3%;
   margin-left: 1%;
   border-radius: 50%;
-}
+} */
 
 /* Styling JS Quiz image */
-.img2 {
+/* .img2 {
   margin-top: 1%;
   margin-bottom: 1%;
   margin-right: 3%;
@@ -125,19 +125,19 @@ html {
   border: 5px solid;
   border-color: #85adcc;
   width: 50%;
-}
+} */
 
 /* Styling PW Generator image */
-.img3 {
+/* .img3 {
   float: right;
   margin: 3%;
   border: 5px solid;
   border-color: #85adcc;
   width: 40%;
-}
+} */
 
 /* styles several card body sections */
-.container .biobody {
+/* .container .biobody {
   color: white;
   font-family: "Roboto", sans-serif;
   font-size: 125%;
@@ -145,18 +145,18 @@ html {
   padding-bottom: 3%;
   padding-right: 3%;
   padding-left: 3%;
-}
+} */
 
 /* styles several card titles */
-.container .biobody .card-title {
+/* .container .biobody .card-title {
   color: white;
   font-family: "Roboto", sans-serif;
   letter-spacing: 2.5px;
   font-size: 150%;
-}
+} */
 
 /* styles skills card deck on home page */
-.card-deck {
+/* .card-deck {
   padding-left: 4%;
   padding-right: 4%;
   color: #343a40;
@@ -186,10 +186,10 @@ html {
 
 .email {
   font-size: smaller;
-}
+} */
 
 /* Styles buttons in JS Quiz section of projects */
-.btn2 {
+/* .btn2 {
   color: #1b191a;
   font-family: "Roboto", sans-serif;
   font-size: 70%;
@@ -213,34 +213,34 @@ html {
 }
 
 /* styles JS Quiz projects section */
-.container .projectsbody {
+/* .container .projectsbody {
   color: white;
   font-family: "Roboto", sans-serif;
   font-size: 125%;
   padding-top: 0;
   margin-bottom: 0;
-}
+} */
 
 /* styles JS Quiz projects card titles */
-.container .projectsbody .card-title {
+/* .container .projectsbody .card-title {
   color: white;
   font-family: "Roboto", sans-serif;
   letter-spacing: 2.5px;
   font-size: 150%;
-}
+} */
 
-/* yellow section */
-header {
+/* navbar */
+/* header {
   background-color: #343a40;
   color: #fff;
   font-family: "Roboto", sans-serif;
   letter-spacing: 2.5px;
   font-weight: 200;
   text-align: center;
-}
+} */
 
 /* copyright section at bottom */
-footer {
+/* footer {
   text-align: center;
   bottom: 0;
   width: 100%;
@@ -250,7 +250,7 @@ footer {
 
 footer p {
   color: #ccc;
-}
+} */
 
 /* Gets rid of border on smaller screens */
 @media only screen and (max-width: 545px) {
