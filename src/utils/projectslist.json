@@ -5,10 +5,11 @@
     "image": "Assets/ShowMeCity.gif",
     "deployedlink": "https://show-me-the-city.herokuapp.com/",
     "icon": "fas fa-city",
-    "deployedtitle": "Explore a City",
+    "deployedtitle": "See Show Me The City in Action",
     "ghlink": "https://github.com/kristenpicard/Show-Me-The-City",
     "githubicon": "fab fa-github",
-    "githubtitle": "Show Me The City GitHub Repo"
+    "githubtitle": "Show Me The City GitHub Repo",
+    "description": "A full-stack React application built by a team of 4 for users to explore things to do in a city. Uses MongoDB for storing data, Firebase for user authentication, and Node.js & Express.js to create RESTful API.  My role was to complete the front-end styling using Styled-Components to bring teammates Figma design to life."
   },  
   {
       "id": 2,
@@ -19,7 +20,8 @@
       "deployedtitle": "Track Your Media Now",
       "ghlink": "https://github.com/kristenpicard/My-Media-Mate",
       "githubicon": "fab fa-github",
-      "githubtitle": "My Media Mate GitHub Repo"
+      "githubtitle": "My Media Mate GitHub Repo",
+      "description": "A full-stack media review application built by a team of 4 using a Model View Controller architecture. Used MySQL database with Sequelize Object-Relational Mapping. Handlebars were used for front-end templating.  My role was creating the controllers and routes to ensure our front end connected properly to our DB."
     },
     {
       "id": 3,
@@ -30,7 +32,8 @@
       "deployedtitle": "Start Blogging Now",
       "ghlink": "https://github.com/kristenpicard/MVC-Tech-Blog",
       "githubicon": "fab fa-github",
-      "githubtitle": "Tech Blog GitHub Repo"
+      "githubtitle": "Tech Blog GitHub Repo",
+      "description": "Full-stack CMS-style blog site. The app follows the MVC paradigm in its architectural structure, uses Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for user authentication. Created a Glassmorphism UI design using CSS."
     },
     {
       "id": 4,
@@ -41,7 +44,8 @@
       "deployedtitle": "View Employee Directory",
       "ghlink": "https://github.com/kristenpicard/Employee-Directory",
       "githubicon": "fab fa-github",
-      "githubtitle": "Employee Directory GitHub Repo"
+      "githubtitle": "Employee Directory GitHub Repo",
+      "description": "React application that uses a random-user API to simulate a searchable directory of employees."
     },
     {
       "id": 5,
@@ -52,7 +56,8 @@
       "deployedtitle": "Check the Weather Here",
       "ghlink": "https://github.com/kristenpicard/Weather-Application",
       "githubicon": "fab fa-github",
-      "githubtitle": "Weather App GitHub Repo"
+      "githubtitle": "Weather App GitHub Repo",
+      "description": "Used the OpenWeather API to retrieve weather data for cities and dynamically render HTML and CSS in the browser. Used localStorage to store persistent data about previously searched cities."
     },
     {
       "id": 6,
@@ -63,7 +68,8 @@
       "deployedtitle": "Plan Your Day Here",
       "ghlink": "https://github.com/kristenpicard/Work-Day-Scheduler",
       "githubicon": "fab fa-github",
-      "githubtitle": "Work Day Schedular GitHub Repo"
+      "githubtitle": "Work Day Schedular GitHub Repo",
+      "description": "Calendar application that allows a user to save events for each hour of the day. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery. Utilized Moment.js library to work with date and time."
     },
     {
       "id": 7,
@@ -74,7 +80,8 @@
       "deployedtitle": "Save Your Notes Here",
       "ghlink": "https://github.com/kristenpicard/Note-Taker",
       "githubicon": "fab fa-github",
-      "githubtitle": "Note Taker GitHub Repo"
+      "githubtitle": "Note Taker GitHub Repo",
+      "description": "A note-taker application that uses an Express.js back end to save and retrieve note data from a JSON file."
     },
     {
       "id": 8,
@@ -85,7 +92,8 @@
       "deployedtitle": "Create a ReadMe Here",
       "ghlink": "https://github.com/kristenpicard/README-Generator",
       "githubicon": "fab fa-github",
-      "githubtitle": "README Generator GitHub Repo"
+      "githubtitle": "README Generator GitHub Repo",
+      "description": "This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. This was my introduction to the power of Node.js."
     },
     {
         "id": 9,
@@ -96,7 +104,8 @@
         "deployedtitle": "Take JavaScript Quiz",
         "ghlink": "https://github.com/kristenpicard/Javascript-Quiz",
         "githubicon": "fab fa-github",
-        "githubtitle": "JS Quiz GitHub Repo"
+        "githubtitle": "JS Quiz GitHub Repo",
+        "description": "One of my very first projects using Javascript was creating a timed JS quiz created with Vanilla JS logic to dynamically render HTML and CSS.  Uses local storage to record High Scores."
       },
       {
         "id": 10,
@@ -107,7 +116,8 @@
         "deployedtitle": "Get a new password",
         "ghlink": "https://github.com/kristenpicard/Password-Generator",
         "githubicon": "fab fa-github",
-        "githubtitle": "PW Generator GitHub Repo"
+        "githubtitle": "PW Generator GitHub Repo",
+        "description": "Javascript browser application that generates a random password based on user-selected criteria. This project was an exercise in fundamental Javascript concepts and in utilizing vanilla Javascript."
       },
      
       {
@@ -119,7 +129,8 @@
         "deployedtitle": "Start Tracking Workouts Here",
         "ghlink": "https://github.com/kristenpicard/Fitness-Tracker",
         "githubicon": "fab fa-github",
-        "githubtitle": "Fitness Tracker GitHub Repo"
+        "githubtitle": "Fitness Tracker GitHub Repo",
+        "description": "Given front-end starter code, created the back-end Mongo database with a Mongoose schema and handled routes with Express.js to create a fitness tracker application."
       },
       {
         "id": 12,
@@ -130,6 +141,7 @@
         "deployedtitle": "Start Budgeting Here",
         "ghlink": "https://github.com/kristenpicard/Budget-Tracker",
         "githubicon": "fab fa-github",
-        "githubtitle": "Budget Tracker GitHub Repo"
+        "githubtitle": "Budget Tracker GitHub Repo",
+        "description": "This project is a Budget Tracker application that allows for offline access and functionality. The user can add expenses and deposits to their budget with or without an internet connection."
       }
   ]

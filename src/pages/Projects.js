@@ -28,7 +28,7 @@ class Projects extends Component {
               ghlink={projects.ghlink}
               githubicon={projects.githubicon}
               githubtitle={projects.githubtitle}
-              className="grid-item"
+              description={projects.description}
             />
           ))}
         </div>

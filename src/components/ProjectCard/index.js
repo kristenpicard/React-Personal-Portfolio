@@ -4,11 +4,9 @@ import "./projects.css";
 function Project(props) {
   return (
     <>
-      {/* <div className="grid-container row"> */}
-      {/* <div className="grid-item1 col"> */}
       <div className="container align-items-center bg-dark">
         <div className="card-body projectsbody">
-          <h5 className="card-title projecttitle">{props.title}</h5>
+          <h5 className="card-title project-title">{props.title}</h5>
           <div className="projectscreenshot">
             <img
               className="img2 bg-dark"
@@ -16,6 +14,8 @@ function Project(props) {
               alt="Project screenshot"
             ></img>
           </div>
+
+          <div className="project-description">{props.description}</div>
 
           <p className="projectbuttons">
             <a
@@ -44,9 +44,7 @@ function Project(props) {
           </p>
         </div>
       </div>
-      {/* </div> */}
-      {/* <div className="grid-item2 col">Im here!!!!!!!!!!!!!!!!!!!</div> */}
-      {/* </div> */}
+      <br></br>
     </>
   );
 }

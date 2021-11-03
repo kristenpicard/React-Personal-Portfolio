@@ -5,7 +5,7 @@ function Contact() {
   return (
     <>
       <div className="container contact bg-white">
-        <h5 className="card-title contact">Contact</h5>
+        <h5 className="card-title contact-title">Contact</h5>
 
         <div className="card-deck contact bg-white">
           <div className="card email bg-white">
