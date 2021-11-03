@@ -9,29 +9,30 @@ class Projects extends Component {
   };
   render() {
     return (
-      <div className="card bg-dark text-center">
-        <div className="jumbocontainer">
-          <h1 className="display-4 neon projectjumbo">
-            Kristen Picard Projects
-          </h1>
-        </div>
-        <br></br>
-        <br></br>
+      <>
+        <div className="card bg-dark text-center">
+          <div className="jumbocontainer">
+            <h1 className="display-4 neon projectjumbo">
+              Kristen Picard Projects
+            </h1>
+          </div>
 
-        {this.state.projects.map((projects) => (
-          <Project
-            id={projects.id}
-            title={projects.title}
-            image={projects.image}
-            deployedlink={projects.deployedlink}
-            icon={projects.icon}
-            deployedtitle={projects.deployedtitle}
-            ghlink={projects.ghlink}
-            githubicon={projects.githubicon}
-            githubtitle={projects.githubtitle}
-          />
-        ))}
-      </div>
+          {this.state.projects.map((projects) => (
+            <Project
+              id={projects.id}
+              title={projects.title}
+              image={projects.image}
+              deployedlink={projects.deployedlink}
+              icon={projects.icon}
+              deployedtitle={projects.deployedtitle}
+              ghlink={projects.ghlink}
+              githubicon={projects.githubicon}
+              githubtitle={projects.githubtitle}
+              className="grid-item"
+            />
+          ))}
+        </div>
+      </>
     );
   }
 }

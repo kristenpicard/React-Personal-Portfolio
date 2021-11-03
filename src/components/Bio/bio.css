@@ -1,12 +1,11 @@
 /* Styling on Kristen's headshot home pg */
 .img {
   float: left;
-  padding-top: 1%;
-  padding-bottom: 1%;
   padding-right: 3%;
   padding-left: 3%;
-  margin-left: 1%;
+  margin-bottom: 0;
   border-radius: 50%;
+  width: 14em;
 }
 
 .container {
@@ -30,4 +29,24 @@
   letter-spacing: 2.5px;
   font-size: 150%;
   text-transform: uppercase;
+  text-align: left;
+}
+
+.card-text {
+  text-align: left;
+}
+
+@media only screen and (max-width: 577px) {
+  .container .biobody .card-title {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 2.5px;
+    font-size: 150%;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  .img {
+    float: none;
+  }
 }

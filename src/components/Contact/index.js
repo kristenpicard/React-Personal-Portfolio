@@ -16,7 +16,12 @@ function Contact() {
           <div className="card email bg-white">
             <i className="fas fa-envelope skilliconcontact"></i>
             <br></br>
-            <h5 className="emailTitle">kristenpicard93@gmail.com</h5>
+            <a
+              className="emailTitle card-title"
+              href="mailto:kristenpicard93@gmail.com"
+            >
+              Click to Email Kristen
+            </a>
           </div>
         </div>
       </div>

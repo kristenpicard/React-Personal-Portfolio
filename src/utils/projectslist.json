@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Show Me The City",
-    "image": "Assets/ShowMeCity.png",
+    "image": "Assets/ShowMeCity.gif",
     "deployedlink": "https://show-me-the-city.herokuapp.com/",
     "icon": "fas fa-city",
     "deployedtitle": "Explore a City",

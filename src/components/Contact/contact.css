@@ -30,15 +30,6 @@
   border: none;
 }
 
-.emailTitle {
-  color: #343a40;
-  text-transform: uppercase;
-  font-family: "Roboto", sans-serif;
-  letter-spacing: 2.5px;
-  font-size: 20px;
-  margin: 0;
-}
-
 @media only screen and (max-width: 1000px) {
   .emailTitle {
     font-size: 15px;

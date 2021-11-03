@@ -1,18 +1,19 @@
 /* Styles the icons associated with the skills section */
 .skillicon {
   font-size: 500%;
+  padding-bottom: 7%;
 }
 
 .skills {
   text-align: center;
-  padding: 3%;
 }
 
 .card-deck {
-  padding-left: 4%;
-  padding-right: 4%;
   color: #343a40;
   text-align: center;
+  justify-content: space-evenly;
+  padding-top: 3%;
+  padding-bottom: 3%;
 }
 
 .container .skills {
@@ -34,14 +35,6 @@
   letter-spacing: 2.5px;
   font-size: 30px;
   margin: 0;
-}
-
-.card {
-  border: none;
-}
-
-.skillz {
-  padding-bottom: 4%;
 }
 
 @media only screen and (max-width: 992px) {

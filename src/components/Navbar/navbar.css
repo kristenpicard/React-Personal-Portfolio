@@ -4,10 +4,16 @@ nav {
   font-family: "Roboto", sans-serif;
   letter-spacing: 2.5px;
   font-weight: 200;
-  text-align: center;
 }
 
 .navbar-nav {
-  padding-left: 5%;
-  padding-top: 1%;
+  padding-top: 2%;
+  padding-left: 10%;
+}
+
+.nav-item {
+  float: right;
+}
+
+@media only screen and (max-width: 577px) {
 }
