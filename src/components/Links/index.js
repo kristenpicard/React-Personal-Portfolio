@@ -39,7 +39,7 @@ function Links() {
             </a>
             <br></br>
             <a
-              href="https://drive.google.com/file/d/1QPnt2khvP9iYFBHlluC48L7Um9OL_QCT/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ezUpq5BlYEwA_jYAEYtfqWb5dzUCeI-H/view?usp=sharing"
               type="button"
               className="btn btn-outline-secondary btn-lg btn-block col-10"
               target="_blank"
